@@ -5,3 +5,6 @@ seaborn
 jupyter
 openpyxl
 python-dotenv
+streamlit
+pytest
+pytest-cov

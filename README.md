@@ -16,3 +16,9 @@ Projeto de análise de dados de vendas fictícias.
 - `notebooks/`: Análises exploratórias
 - `src/`: Código fonte
 - `outputs/`: Resultados e visualizações
+
+## Como Executar o Dashboard
+
+1. Instale o Streamlit:
+```bash
+pip install streamlit
